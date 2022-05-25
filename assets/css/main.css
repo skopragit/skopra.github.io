@@ -208,12 +208,12 @@ a {
     -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #e44c65;
+    color: #d68c5b;
     text-decoration: none;
 }
 
 a:hover {
-    color: #e44c65 !important;
+    color: #d68c5b !important;
     border-bottom-color: transparent;
 }
 
@@ -1971,7 +1971,7 @@ header.major {
 }
 
 header.major:after {
-    background: #e44c65;
+    background: #d68c5b;
     content: '';
     display: inline-block;
     height: 0.2em;
@@ -2041,7 +2041,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #e44c65;
+    border-color: #d68c5b;
 }
 
 select {
@@ -2144,7 +2144,7 @@ input[type="radio"]:checked+label:before {
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-    border-color: #e44c65;
+    border-color: #d68c5b;
 }
 
 input[type="checkbox"]+label:before {
@@ -2708,8 +2708,8 @@ input[type="button"]:hover,
 input[type="button"]:active,
 .button:hover,
 .button:active {
-    box-shadow: inset 0 0 0 1px #e44c65;
-    color: #e44c65 !important;
+    box-shadow: inset 0 0 0 1px #d68c5b;
+    color: #d68c5b !important;
 }
 
 input[type="submit"]:active,
@@ -2751,7 +2751,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-    background-color: #e44c65;
+    background-color: #d68c5b;
     box-shadow: none;
     color: #ffffff !important;
 }
@@ -2760,14 +2760,14 @@ input[type="submit"].primary:hover,
 input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 .button.primary:hover {
-    background-color: #e76278;
+    background-color: #d68c5b;
 }
 
 input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-    background-color: #e13652;
+    background-color: #d68c5b;
 }
 
 input[type="submit"].disabled,
@@ -2997,7 +2997,7 @@ input[type="button"]:disabled,
 }
 
 .spotlight.style1 .content {
-    border-color: #e44c65;
+    border-color: #d68c5b;
 }
 
 .spotlight.style2 .content {
@@ -3060,7 +3060,7 @@ body.is-touch .spotlight {
 }
 
 .wrapper.style2 {
-    background: #e44c65;
+    background: #d68c5b;
 }
 
 .wrapper.style2 input[type="text"]:focus,
@@ -3096,7 +3096,7 @@ body.is-touch .spotlight {
 .wrapper.style2 input[type="button"].primary,
 .wrapper.style2 .button.primary {
     background-color: #ffffff;
-    color: #e44c65 !important;
+    color: #d68c5b !important;
 }
 
 .wrapper.style2 input[type="submit"].primary:hover,
@@ -3204,7 +3204,7 @@ body.is-touch .spotlight {
 
 .dropotron>li.active>a,
 .dropotron>li.active>span {
-    color: #e44c65;
+    color: #d68c5b;
 }
 
 .dropotron.level-0 {
@@ -3299,7 +3299,7 @@ body.landing .dropotron.level-0 {
 
 #header nav ul li.active>a,
 #header nav ul li.active>span {
-    color: #e44c65;
+    color: #d68c5b;
 }
 
 #header nav ul li>ul {
